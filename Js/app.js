@@ -129,7 +129,7 @@ function myFunction() {
   element.style.display = "none"
 }
 function my() {
-  setTimeout(myFunction, 0);
+  setTimeout(myFunction, 3000);
 }
 my();
 
