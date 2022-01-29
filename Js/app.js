@@ -29,7 +29,7 @@ window.onclick = function (event) {
 // random
 
 // random money
-money = [6868, 2022, 8888, 6666,6868,8686,1111,22222,3333,9999]
+money = [6868, 10000, 8888, 6666,6868,8686,5000,10000,3333,9999]
 var number1,number2,number3,number4;
 function RandomMoney(){
   number1 = Math.floor(Math.random() * 10);
